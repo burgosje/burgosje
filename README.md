@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jéssica Oliveira de Burgos, I'm Brazilian and I'm a historian transition to Data Science.
+- 👀 I’m interested in Data, Agility, AI, Soft Skills, History and Human Sciences
+- 🌱 I’m currently learning Technology and Design at Cesar School and Human Sciences at PUCRS
+- 📫 Reach me at jessicaoliveiradeburgos@gmail.com
